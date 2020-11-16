@@ -1,0 +1,43 @@
+#Liczba odpowiedzi:
+3
+Ile wiesz o jednorożcach?
+Pytanie 1: Jaka jest inna nazwa jednorożców?
+A - Pegaz
+B - Rogaty koń
+C - Magiczny koń
+Pytanie 2: Skąd pochodziły jednorożce? 
+A - Z północnej Europy
+B - Z środkowej Afryki
+C - Z południowej Azji
+Pytanie 3: Jakiej maści są małe jednorożce?
+A - Złote
+B - Srebrne
+C - Białe
+Pytanie 4: Jak długi jest przeważnie róg jednorożca?
+A - Około 10 cm
+B - Około 100 cm
+C - Około 25 cm
+Pytanie 5: Jakie właściwości mają rogi jednorożca?
+A - Poprawiające urodę
+B - Dodające sił
+C - Lecznicze
+Pytanie 6: Jaką moc mają łzy jednorożca?
+A - Oczyszczenie z grzechów
+B - Nadają nieśmiertelność
+C - Zamieniają w jednorożce
+Pytanie 7: Jaką moc ma krew jednorożca?
+A - Dodaje moc nieśmiertelności
+B - Zabija osobę, która ją wypija
+C - Dodaje życie i przeklina osobę, która ją wypija
+Pytanie 8: Czego symbolem w sztuce są jednorożce?
+A - Magii
+B - Niewinności
+C - Kobiet
+Pytanie 9: Jak się nazywa parodia religii, wyznawców jednorożców?
+A - "Wierni Jednorożca"
+B - "Niewidzialny Różowy Jednorożec"
+C - "Jednorożec Chrześcijański"
+Pytanie 10: Kto najwcześniej pisał o jednorożcach?
+A - Ktezjasz
+B - Domenichino
+C - Arystoteles
