@@ -6,3 +6,4 @@
 # 3. W wierszu trzecim wpisujemy tytuł naszego quizu
 # 4. Następnie zachowujemy proporcję, czyli jedną linijkę na pytanie + tyle odpowiedzi ile wybraliśmy w punkcie 2
 # 5. W polach odpowiedzi pierwszy znak jest kluczem do którego odnosimy się w pliku klucz.txt, kolejne 3 znaki zostaną wycięte w fazie wypisywania, a reszta to odpowiedzi
+# 6. Aby udostępnić plik do naszego quizu w githubie wybieramy opcję "raw" a następnie kopiujemy adres strony
